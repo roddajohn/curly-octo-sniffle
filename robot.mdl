@@ -1,0 +1,14 @@
+push
+move 250 200 0
+rotate y 360 body
+box -100 150 40 200 300 80
+push
+rotate y 90
+move 0 201 0
+sphere 0 0 0 50
+pop
+push
+move 100 150 0
+rotate x 65
+box 0 0 30 40 200 60
+display
